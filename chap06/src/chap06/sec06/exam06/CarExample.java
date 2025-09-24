@@ -15,7 +15,6 @@ public class CarExample {
 			myCar.setStop(true);
 		}
 		System.out.println("현재 속도: " + myCar.getSpeed());
-
 	}
 
 }
