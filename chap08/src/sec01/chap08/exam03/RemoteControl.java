@@ -1,6 +1,7 @@
-package chap08.exam04;
+package sec01.chap08.exam03;
 
 public interface RemoteControl {
+	
 	// 상수
 	int MAX_VOLUME = 10;
 	int MIN_VOLUME = 0;
@@ -9,4 +10,5 @@ public interface RemoteControl {
 	void turnOn();
 	void turnOff();
 	void setVolume(int volume);
+	
 }
